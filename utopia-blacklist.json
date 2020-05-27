@@ -30,6 +30,7 @@
     "lufthansa.com": {"tags": ["polution", "air-traffic"]},
 
     "group.rwe": {"tags": ["polution", "energy", "coal"]},
+    "uniper.energy": {"tags": ["polution", "energy", "coal"]},
 
     "toennies.de": {"tags": ["meat"]},
     
