@@ -1,0 +1,39 @@
+{
+    "afd.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "alternativefuer-bw.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afdbayern.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd.berlin": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd-brandenburg.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd-bremen.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "alternative-hamburg.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd-hessen.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd-mv.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd-niedersachsen.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd.nrw": {"tags": ["party", "afd", "nazi", "racism"]},
+    "alternative-rlp.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd.saarland": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afdsachsen.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd-lsa.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd-schleswig-holstein.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd-thueringen.de": {"tags": ["party", "afd", "nazi", "racism"]},
+    "afd-europa.org": {"tags": ["party", "afd", "nazi", "racism"]},
+    "npd.de": {"tags": ["party", "npd", "nazi", "racism"]},
+    "fpoe.at": {"tags": ["party", "fpoe", "nazi", "racism"]},
+
+    "cloudflare.com": {"tags": ["it", "trump"]},
+
+    "audi.de": {"tags": ["polution", "automotive"]},
+    "volkswagen.de": {"tags": ["polution", "automotive"]},
+    "porsche.com": {"tags": ["polution", "automotive"]},
+
+    "lufthansa.com": {"tags": ["polution", "air-traffic"]},
+
+    "group.rwe": {"tags": ["polution", "energy", "coal"]},
+
+    "thyssenkrupp.com": {"tags": ["defense", "war", "murder", "weapons"]},
+    "rheinmetall.com": {"tags": ["defense", "war", "murder", "weapons"]},
+
+    "bild.de":  {"tags": ["news", "demagogy"]},
+    "foxnews.com":  {"tags": ["news", "demagogy"]}
+
+}
