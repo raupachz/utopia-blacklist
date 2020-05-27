@@ -1,4 +1,4 @@
-# Utopia Blacklist
+# Utopia Blacklist ✊🌲⚑
 Make online bullshit machine readable! This is not only a simple JSON file. It is a utopian idea of a better internet and a better world.
 
 There are many things you can do with such a list. Lock your software against certain uses, block data traffic or automate various tasks.
