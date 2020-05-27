@@ -20,6 +20,8 @@
     "npd.de": {"tags": ["party", "npd", "nazi", "racism"]},
     "fpoe.at": {"tags": ["party", "fpoe", "nazi", "racism"]},
 
+    "burschenschaft.de": {"tags": ["student-association", "fraternity", "racism", "conservative"]},
+    
     "cloudflare.com": {"tags": ["it", "trump"]},
 
     "audi.de": {"tags": ["polution", "automotive"]},
