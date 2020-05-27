@@ -21,6 +21,7 @@
     "fpoe.at": {"tags": ["party", "fpoe", "nazi", "racism"]},
 
     "burschenschaft.de": {"tags": ["student-association", "fraternity", "racism", "conservative"]},
+    "allgemeine-burschenschaft.de": {"tags": ["student-association", "fraternity", "racism", "conservative"]},
     
     "cloudflare.com": {"tags": ["it", "trump"]},
 
