@@ -1,5 +1,5 @@
 # Utopia Blacklist ✊🌲⚑
-Make online bullshit machine readable! This is not only a simple JSON file. It is a utopian idea of a better internet and a better world.
+This is not only a simple JSON file. It is a utopian idea of a better internet and a better world. This list contains domains and tags of companies, parties or associations that are dangerous for the common good of this world.
 
 There are many things you can do with such a list. Lock your software against certain uses, block data traffic or automate various tasks.
 
